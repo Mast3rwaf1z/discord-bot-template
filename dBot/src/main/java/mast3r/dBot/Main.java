@@ -8,7 +8,7 @@ import net.dv8tion.jda.api.entities.Activity;
 
 
 public class Main {
-	static String token = "NjkzNDkwODYxOTI0ODEwODAy.Xn91sQ.hJr_i0GS4y2CyYcSWxjdAH5nKTk";
+	static String token = "";
 	public static void main(String[] args) throws LoginException, InterruptedException {
 		
 		//build the JDA
